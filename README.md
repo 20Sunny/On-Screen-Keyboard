@@ -3,3 +3,5 @@
 pip install tkinter <br>
 pip install sys <br>
 pip install os
+
+Run these command in your CMD
