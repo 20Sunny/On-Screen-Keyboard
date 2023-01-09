@@ -1,5 +1,5 @@
 # On-Screen-Keyboard
 ## firstly, download all the pckages which is required
-pip install tkinter \n
-pip install sys \n
+pip install tkinter <br>
+pip install sys <br>
 pip install os
